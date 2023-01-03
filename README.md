@@ -2,7 +2,9 @@
 Tugas Besar Matakuliah Pemrograman Berbasis Objek
 Sistem Kasir pada Minimarket Eramart
 
-Oleh : Edo Arya Hermawan(2141762068) dan Fauzan Zulfa Ramadhan(2141762074)
+Oleh : 
+1. Edo Arya Hermawan / 2141762068
+2. Fauzan Zulfa Ramadhan / 2141762074
 
 Langkah-Langkah :
 1. Import project "eramart" ke text editor
