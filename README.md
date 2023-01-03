@@ -1,6 +1,6 @@
 # Eramart
-Tugas Besar Matakuliah Pemrograman Berbasis Objek
-Sistem Kasir pada Minimarket Eramart
+Tugas Besar Matakuliah Pemrograman Berbasis Objek,
+Membuat Sistem Kasir untuk Minimarket Eramart
 
 Oleh : Edo Arya Hermawan dan Fauzan Zulfa Ramadhan
 
